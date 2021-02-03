@@ -2,6 +2,7 @@
 Clone do jogo Dino Game do Google.
 
 Desafio de projeto  da Bootcamp GFT START_UNI 2021 realizado pela Digital Innovation One - DIO.
+Ministrado por: Celso Henrique Engineering Manager do grupo zap.
 
 # Recriando o famoso jogo do dinossauro sem internet.
 
